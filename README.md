@@ -1,2 +1,2 @@
 # 1001filmes
- filme e series
+ filmes, séries e animes
